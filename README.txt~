@@ -9,5 +9,3 @@ or
 python -m SimpleHTTPServer
 
 to run server side code, you need to use django (python) or flask, or node.js
-
-adding auth token
